@@ -5,6 +5,12 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Teht_01", "Teht_01\Teht_01.pyproj", "{0D42B1F8-B7C7-409C-911B-F6265E2AE976}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Teht_02", "Teht_02\Teht_02.pyproj", "{AF043C4D-6505-48BE-9704-C9CFFDA19D0F}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Teht_03", "Teht_03\Teht_03.pyproj", "{7B333F1F-8854-4EDB-9BC4-5A4E0AAA7132}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Teht_05", "Teht_05\Teht_05.pyproj", "{775F4B03-F353-4224-A7B8-9DFE9621F98E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +19,12 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{0D42B1F8-B7C7-409C-911B-F6265E2AE976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{0D42B1F8-B7C7-409C-911B-F6265E2AE976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF043C4D-6505-48BE-9704-C9CFFDA19D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF043C4D-6505-48BE-9704-C9CFFDA19D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B333F1F-8854-4EDB-9BC4-5A4E0AAA7132}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B333F1F-8854-4EDB-9BC4-5A4E0AAA7132}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{775F4B03-F353-4224-A7B8-9DFE9621F98E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{775F4B03-F353-4224-A7B8-9DFE9621F98E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
